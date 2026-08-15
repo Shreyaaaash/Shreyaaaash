@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm currently working on my AI/ML Core concept<br>I'm looking forward to collaborate on UI/UX Design<br>I would just go on and on about Figma<br>Got to showcase my few Frontend skills on Adopet website<br>
+
 
 
 ## 🌐 Socials:
